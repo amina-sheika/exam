@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="test.xsl"?>
+<Company  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="NewXML Schema.xsd">
+    <Employee>
+        <emp id="D101">
+            <Emp-name> Rohan </Emp-name>
+            <Emp-age> 21 </Emp-age>
+            <Emp-salary> 500000 </Emp-salary>
+            <Emp-email> sujkhsjdhu@gmail.com</Emp-email>
+            <Emp-phonenum> 7907315588 </Emp-phonenum>
+            <Emp-designation> accountant </Emp-designation>
+            
+           
+        </emp>
+        
+        <emp id="D102">
+            <Emp-name> Joseph </Emp-name>
+            <Emp-age> 51 </Emp-age>
+            <Emp-salary> 750000 </Emp-salary>
+            <Emp-email> dfdfdfdu@gmail.com</Emp-email>
+            <Emp-phonenum> 9098787867 </Emp-phonenum>
+            <Emp-designation> HR </Emp-designation>
+            
+           
+        </emp>
+        
+        <emp id="D103">
+            <Emp-name> Suban </Emp-name>
+            <Emp-age> 56 </Emp-age>
+            <Emp-salary> 1500000 </Emp-salary>
+            <Emp-email> dfdfdfdfdf@gmail.com</Emp-email>
+            <Emp-phonenum> 9567312271 </Emp-phonenum>
+            <Emp-designation> accountant </Emp-designation>
+            
+           
+        </emp>
+        
+        
+
+        
+    </Employee>
+
+</Company>
